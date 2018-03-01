@@ -1,0 +1,20 @@
+b=50;
+b1=b;
+b2=sqrt(2*b);
+b3=sqrt(2/b);
+b4=1/b;
+x_m0=0;
+xdot_m0=0;
+x_s0 = 0;
+xdot_s0=0;
+Jm=1;
+Js=1;
+bm=0.005;
+bs=0.005;
+Kp=1;-velocity
+Ki=20;-position
+Kwall=5000;
+bwall=10;
+xwall=0.2;
+Td = 0.03;
+

@@ -1,0 +1,20 @@
+b=2.5;
+b1=b;
+b2=sqrt(2*b);
+b3=sqrt(2/b);
+b4=1/b;
+x_m0=0;
+xdot_m0=0;
+x_s0 = 0;
+xdot_s0=0;
+Jm=0.1;
+Js=0.1;
+bm=2.5;
+bs=2.5;
+Kp=20;
+Ki=370;
+Kwall=50;
+bwall=5;
+xwall=0.2;
+Td = 0.5;
+
